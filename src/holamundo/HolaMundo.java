@@ -19,6 +19,8 @@ public class HolaMundo {
         System.out.println("Primer comentario de Jose");
         //Maria
         System.out.println("Primer comentario de Maria");
+        //Segundo cambio de Jose
+        System.out.println("Segundo comentario de Jose");
     }
     
 }
