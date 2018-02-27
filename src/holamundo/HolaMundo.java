@@ -21,6 +21,8 @@ public class HolaMundo {
         System.out.println("Segundo comentario de Jose");
         //Primer cambio en la rama24
         System.out.println("Primer comentario de Jose en la rama24");
+        //Segundo cambio en la rama24
+        System.out.println("Segundo comentario de Jose en la rama24");
     }
     
 }
